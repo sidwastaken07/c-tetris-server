@@ -1,10 +1,4 @@
-/*
- * TETRIS - C WebSocket Server (Windows)
- *
- * Compile:  gcc -o tetris_server tetris_server.c -lws2_32 -O2
- * Run:      tetris_server.exe
- * Browser:  http://localhost:3000
- */
+
 
 #define WIN32_LEAN_AND_MEAN
 #include <winsock2.h>

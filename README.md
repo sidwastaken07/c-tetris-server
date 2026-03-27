@@ -47,7 +47,7 @@ http://localhost:3000
 
 ## 📸 Screenshots
 
-(Add screenshots here if possible)
+<img width="1115" height="812" alt="image" src="https://github.com/user-attachments/assets/39530f54-0a18-45c6-902d-82bedc6b210d" />
 
 ## 💡 Learning Outcomes
 

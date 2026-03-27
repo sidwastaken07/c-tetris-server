@@ -1,8 +1,8 @@
-# 🧩 Tetris in C (WebSocket Server)
+#  Tetris in C (WebSocket Server)
 
 A fully functional Tetris game implemented in **pure C**, served via a **custom WebSocket server** and rendered in the browser.
 
-## 🚀 Features
+##  Features
 
 * 🧠 Complete Tetris game logic in C
 * 🌐 Custom WebSocket implementation (no external libraries)
